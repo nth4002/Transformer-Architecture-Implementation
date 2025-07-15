@@ -1,0 +1,8 @@
+altair==5.5.0
+GPUtil==1.4.0
+torch==2.1.0
+torchtext==0.16.0
+torchdata==0.7.0
+numpy==1.26.4
+spacy==3.7.2
+portalocker==3.2.0
